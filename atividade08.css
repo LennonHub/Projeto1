@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+    align-items: center;
+    display: flex;
+    gap: 1em;
+    height: 2em;
+    background-color: aliceblue;
+    box-shadow: 0px 2px 10px black;
+    padding-left: 1rem;
+    position: fixed;
+}
+a{
+    text-decoration: none;
+}
+#UM{
+   background-color: brown;
+}
+#DOIS{
+    background-color: blue;
+}
+#TRES{
+    background-color: yellow;
+}
+#QUATRO{
+    background-color: red;
+}
+#CINCO{
+    background-color: aqua;
+}
+#SEIS{background-color: blueviolet;
+}
+section{
+    min-height: 100vh;
+    padding-top: 2.5rem;
+    padding-left: 1rem;
+
+}
